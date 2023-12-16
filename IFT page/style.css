@@ -11,17 +11,17 @@
 /* My variables */
 
 :root {
-    --soft-red:hsl(7, 90%, 70%);
-    --yellow:hsl(53, 100%, 49%);
-    --dark-sat-cyan:hsl(167, 40%, 24%);
-    --dark-blue-photo-text: hsl(198, 62%, 26%);
-    --light-moderate-cyan: hsl(180, 54%, 86%);
-    --drk-moderate-cyan: hsl(168, 34%, 41%);
+    --soft-red:hsla(0, 54%, 47%, 0.938);
+    --yellow:hsla(53, 100%, 49%, 0.815);
+    --dark-sat-cyan:hsla(212, 66%, 34%, 0.767);
+    --dark-blue-photo-text: hsla(182, 90%, 62%, 0.863);
+    --light-moderate-cyan: hsla(180, 20%, 96%, 0.575);
+    --drk-moderate-cyan: hsl(202, 71%, 60%);
     /* hsl(168, 34%, 41%) */
-    --dark-sat-blue: hsl(212, 27%, 19%);
-    --very-drk-grayish-blue: hsl(213, 9%, 39%);
+    --dark-sat-blue: hsla(180, 54%, 38%, 0.685);
+    --very-drk-grayish-blue: hsl(210, 76%, 45%);
     --drk-grayish-blue: hsl(232, 9%, 55%;);
-    --grayish-blue: hsl(210, 4%, 67%);
+    --grayish-blue: hsla(241, 77%, 23%, 0.856);
     --white: hsl(0, 0%, 100%);
     --upper-blue: rgba(61,190,255,255); 
 }
